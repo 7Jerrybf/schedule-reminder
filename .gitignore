@@ -10,3 +10,7 @@ __pycache__/
 # IDE and editor folders
 .vscode/
 .idea/
+
+#temp files
+.check_font.py
+.fonts_list.txt
